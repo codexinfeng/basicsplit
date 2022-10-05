@@ -11,7 +11,7 @@
 	<description>basicsplit Analyzer for ElasticSearch</description>
 
 	<properties>
-		<elasticsearch.version>7.1.0</elasticsearch.version>
+		<elasticsearch.version>7.14.0</elasticsearch.version>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<elasticsearch.assembly.descriptor>${project.basedir}/src/main/assemblies/plugin.xml</elasticsearch.assembly.descriptor>
